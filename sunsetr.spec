@@ -5,7 +5,7 @@ Version:	0.7.0
 Release:	1
 Source0:	https://github.com/psi4j/sunsetr/archive/v%{version}/%{name}-%{version}.tar.gz
 Source1:	%{name}-%{version}-vendor.tar.gz
-Summary:	Autmoatic blue light fil;ter for hyprland, Niri, and everything Wayland
+Summary:	Autmoatic blue light filter for hyprland, Niri, and everything Wayland
 URL:		https://github.com/psi4j/sunsetr
 License:	MIT
 Group:		Window Manager/Utility
